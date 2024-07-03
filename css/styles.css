@@ -257,6 +257,14 @@ a:not([href]):not([class]), a:not([href]):not([class]):hover {
   text-decoration: none;
 }
 
+a.fill-div {
+  text-align: center;
+  display: block;
+  height: 100%;
+  width: 100%;
+  text-decoration: none;
+}
+
 pre,
 code,
 kbd,
